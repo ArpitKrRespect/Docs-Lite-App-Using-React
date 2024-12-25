@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-    font-family: "Gilroy";
+* {
+  font-family: "Gilroy", sans-serif;
 }
 
-::selection{
-    color : rgb(218, 156, 57)
+::selection {
+  color: rgb(218, 156, 57);
 }
